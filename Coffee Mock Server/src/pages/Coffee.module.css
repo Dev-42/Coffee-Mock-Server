@@ -1,0 +1,13 @@
+.button{
+    padding: 8px;
+    width: 96px;
+    border-radius: 6px;
+    text-align: center;
+    margin: 40px;
+    margin-left: 41rem
+}
+.mainContainer{
+    display: flex;
+    height: 27rem;
+    width: 40rem;
+}
